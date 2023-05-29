@@ -1,0 +1,49 @@
+header {
+    background-color: rgb(47, 126, 230);
+    color: white;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    
+}
+
+h1, h2, h3 {
+    font-family: sans-serif;
+}
+
+nav ul {
+    list-style: none;
+    padding: 20px;
+    margin: 20px;
+}
+
+.title {
+        margin-top: 0;
+        margin-left: 20px;
+}
+
+.no-image {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.profile-picture {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.main-article {
+    margin: auto;
+    width: 70%;
+}
+
+footer {
+    height: 30px;
+    background-color: rgb(47, 126, 230);
+    text-align: center;
+    color: white;
+}
